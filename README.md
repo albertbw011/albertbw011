@@ -1,6 +1,7 @@
-- Hi, I’m @albertbw011
+- Hi, I’m Albert Wang
+- I’m currently studying Electrical and Computer Engineering at UT Austin.
 - I’m interested in software engineering and quantitative finance.
-- I’m currently studying at UT Austin.
+
 
 <!---
 albertbw011/albertbw011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
