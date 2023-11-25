@@ -1,6 +1,6 @@
 - Hi, I’m Albert Wang
 - I’m currently studying Electrical and Computer Engineering at UT Austin.
-- I’m interested in software engineering and quantitative finance.
+- I’m interested in software engineering.
 
 
 <!---
